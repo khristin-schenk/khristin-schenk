@@ -23,6 +23,8 @@ khristinschenk@gmail.com
  - [Really Boring Games](https://really-boring-games.github.io/really-boring-games/)
    *By **Red Spring Studio** is primarily focused on leisurely, self-paced environmental exploration and visual art.*
 
- 👯 I’m always on the lookout for challenging and interesting projects. 
- 
+
+
+## 👯 I’m always on the lookout for challenging and interesting projects.
+
  *Please feel free to [contact me](mailto:khristinschenk@gmail.com) if you'd like to collaborate.*
