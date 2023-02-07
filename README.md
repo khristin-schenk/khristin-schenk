@@ -13,24 +13,18 @@
 </p>
 
 
-## Current Projects:
-
-- [Barrier Grid Animation](./index.html)
-- [Title](#)
-
-
-<!--
-- [**Really Boring Games** - *Immersive 3D experiences for WebXR compatible devices*](https://github.com/really-boring-games)
-<br>
-- [**Atom Loves You** - *Experiments with Electronic Music, Visual Art & Computer Science*](https://github.com/atom-loves-you)
-<br>
-
-
-- [Title](#)
-- [Title](#)
-- [Title](#)
-- [Title](#)
--->
+___
 
 
 
+<h3 align="center"> Current Projects:</h3>
+
+<p align="center">
+<a href="./projects/Barrier Grid Animation/dist/index.html"><img  src="images-project-covers/scan.png" alt="Barrier Grid Animation Page" width="200"><br>Barrier Grid Animation</a></p>
+
+___
+
+<p align="center">
+<a href="./Barrier%20Grid%20Animation/dist/index.html"><img  src="https://assets.codepen.io/6566924/AdobeStock_510115847.png" alt="Project Homepage" width="200"><br>Project Title</a></p>
+
+___
