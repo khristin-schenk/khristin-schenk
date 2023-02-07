@@ -46,5 +46,15 @@
 	"editor.unicodeHighlight.nonBasicASCII": false,
 	"editor.unicodeHighlight.includeStrings": false,
 	"editor.unicodeHighlight.ambiguousCharacters": false,
-	"editor.unicodeHighlight.includeComments": false
+	"editor.unicodeHighlight.includeComments": false,
+	"files.autoSave": "onFocusChange",
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"cSpell.words": [
+		"phénakisticope",
+		"Phenakistiscope",
+		"Scanimation",
+		"Zoetrope"
+	]
 }
