@@ -15,12 +15,17 @@
 
 ## Current Projects:
 
+- [Barrier Grid Animation](./index.html)
+- [Title](#)
+
+
+<!--
 - [**Really Boring Games** - *Immersive 3D experiences for WebXR compatible devices*](https://github.com/really-boring-games)
 <br>
 - [**Atom Loves You** - *Experiments with Electronic Music, Visual Art & Computer Science*](https://github.com/atom-loves-you)
 <br>
 
-<!--
+
 - [Title](#)
 - [Title](#)
 - [Title](#)
