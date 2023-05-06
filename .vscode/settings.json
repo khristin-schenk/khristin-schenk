@@ -56,5 +56,9 @@
 		"Phenakistiscope",
 		"Scanimation",
 		"Zoetrope"
-	]
+	],
+	"editor.renderControlCharacters": false,
+	"editor.renderLineHighlight": "none",
+	"editor.glyphMargin": false,
+	"editor.experimentalWhitespaceRendering": "off"
 }
