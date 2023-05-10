@@ -103,7 +103,7 @@
 		"scm.countBadge": "off",
 		"terminal.integrated.sendKeybindingsToShell": true,
 		"editor.renderControlCharacters": false,
-		"editor.renderFinalNewline": false,
+		"editor.renderFinalNewline": "off",
 		"explorer.autoReveal": false,
 		"notebook.consolidatedOutputButton": false,
 		"workbench.list.openMode": "doubleClick"
