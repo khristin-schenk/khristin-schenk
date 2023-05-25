@@ -60,5 +60,23 @@
 	"editor.renderControlCharacters": false,
 	"editor.renderLineHighlight": "none",
 	"editor.glyphMargin": false,
-	"editor.experimentalWhitespaceRendering": "off"
+	"editor.experimentalWhitespaceRendering": "off",
+	"scm.diffDecorationsGutterPattern": {
+		"modified": false
+	},
+	"git.countBadge": "off",
+	"git.openDiffOnClick": false,
+	"git.untrackedChanges": "hidden",
+	"git.smartCommitChanges": "tracked",
+	"diffEditor.ignoreTrimWhitespace": true,
+	"editor.rename.enablePreview": false,
+	"git.suggestSmartCommit": false,
+	"git.promptToSaveFilesBeforeStash": "never",
+	"editor.unusualLineTerminators": "off",
+	"editor.guides.bracketPairsHorizontal": false,
+	"editor.lightbulb.enabled": false,
+	"npm.autoDetect": "off",
+	"npm.packageManager": "npm",
+	"prettier.bracketSpacing": false,
+	"prettier.printWidth": 110
 }
