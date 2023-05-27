@@ -13,7 +13,7 @@ This portfolio is a collection of all of my projects so far.</p>
 
 ----
 
-
+<!-- 
 <p align="center">
   <a href="https://tailwindcss.com" target="_blank">
     <picture>
@@ -41,3 +41,4 @@ This portfolio is a collection of all of my projects so far.</p>
 ## Documentation
 
 For full documentation, visit [tailwindcss.com](https://tailwindcss.com/).
+-->
