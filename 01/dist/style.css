@@ -1,0 +1,152 @@
+html{
+  scroll-behavior:smooth;
+}
+body{
+  margin:0;
+  background:#27e86a;
+}
+nav{
+  background:#EA302A;
+  width:2vw;
+  height:100vh;
+  position:fixed;
+  
+}
+nav>a{
+  color:white;
+  background:green;
+} 
+main{
+  position:absolute;
+  top:0;
+  right:0;
+  width:85vw;
+}
+h1{
+  font-family:Helvetica;
+  font-size:80pt;
+  position:absolute;
+  left:20cm;
+  top:8cm;
+  
+}
+img{
+  width:20vw;
+  position:absolute;
+}
+#one{
+  top:100vh;
+  left:10vh;
+ 
+}
+#two{
+  top:50vh;
+  left:10vh;
+  width:10vw;
+}
+p{
+  position:absolute;
+  top:5cm;
+  left:-10cm;
+  width:50cm;
+  font-family:times new roman;
+  font-size:25pt;
+}
+button{
+  width:5vw;
+  hight:20vh;
+  position:absolute;
+  background:#E3481A;
+  margin-bottom:20px;
+  top:10cm;
+  left:1vw;
+  
+
+}
+button a{
+  color:#FAEE35;
+  font:helvetica;
+  text-decoration:non;
+  Font-size:20pt;
+}
+
+#one{
+  top:2cm;
+  left:1cm;
+}
+#three{
+  top:4cm;
+  left:1cm;
+}
+#four{
+  top:9cm;
+  left:1cm;
+}
+#five{
+  top:11cm;
+  left:1cm;
+}
+#six{
+  top:16cm;
+  left:1cm;
+}
+#seven{
+  top:18cm;
+  left:1cm;
+}
+#eigth{
+  top:40cm;
+  left:1cm;
+}
+
+#welcome{
+  position:absolute;
+  left:20.2cm;
+  top:-2cm;
+  width:15cm;
+}
+#scrolldown{
+  position:absolute;
+  right:5cm;
+  top:36cm;
+  width:10cm;
+}
+  #thanks{
+    position:absolute;
+    top:110cm;
+    left:20.2cm;
+}
+  
+
+#titleimage{
+  position:absolute;
+  top:15cm;
+  left:20.2cm;
+}
+#titleimagearchitecture{
+  position:absolute;
+  top:65cm;
+  left:20.2cm;
+  
+}
+
+#intreduction{
+  position:absolute;
+  top:19.5cm;
+  left:0.2cm;
+ 
+  
+}
+#firstparagraph{
+  position:absolute;
+  top:25cm;
+}
+#architecture{
+  position:absolute;
+  top:60cm;
+}
+#secondparagraph{
+  position:absolute;
+  top:70cm;
+  
+}
