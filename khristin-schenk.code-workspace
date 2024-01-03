@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"workbench.cloudChanges.autoResume": "off",
+		"workbench.cloudChanges.continueOn": "off",
+		"workbench.commandPalette.experimental.enableNaturalLanguageSearch": false,
+		"workbench.list.openMode": "doubleClick"
+	}
+}
