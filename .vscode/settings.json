@@ -126,7 +126,6 @@
     "editor.minimap.showRegionSectionHeaders": false,
     "editor.acceptSuggestionOnEnter": "smart",
     "editor.acceptSuggestionOnCommitCharacter": false,
-    "editor.inlineSuggest.edits.codeShifting": false,
     "editor.inlineSuggest.edits.renderSideBySide": "never",
     "editor.inlineSuggest.showToolbar": "always",
     "editor.screenReaderAnnounceInlineSuggestion": false,
@@ -138,5 +137,6 @@
     "github.showAvatar": false,
     "html.autoClosingTags": true,
     "html.autoCreateQuotes": true,
-    "editor.occurrencesHighlight": "off"
+    "editor.occurrencesHighlight": "off",
+    "editor.inlineSuggest.edits.allowCodeShifting": "never"
 }
