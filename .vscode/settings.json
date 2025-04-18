@@ -74,7 +74,7 @@
 	"git.promptToSaveFilesBeforeStash": "never",
 	"editor.unusualLineTerminators": "off",
 	"editor.guides.bracketPairsHorizontal": false,
-	"editor.lightbulb.enabled": false,
+	"editor.lightbulb.enabled": "off",
 	"npm.autoDetect": "off",
 	"npm.packageManager": "npm",
 	"prettier.bracketSpacing": false,
